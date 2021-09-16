@@ -48,7 +48,7 @@ msgstr "مواصفات AMP HTML"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr "نظرة عامة على AMP"
+msgstr ""
 
 
 
