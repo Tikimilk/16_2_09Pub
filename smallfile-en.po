@@ -19,7 +19,7 @@ msgstr ""
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgctxt "Test text"
 msgid "A screenshot of a website using AMP."
-msgstr ""
+msgstr "qqqqqqqqq"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgctxt "01"
