@@ -1,16 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-19 19:02+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ilya <xxxxxxxxxx@xxxxxxx.xxxxx>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_t\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgctxt "Test text"
 msgid "A screenshot of a website using AMP."
 msgstr "لقطة شاشة لموقع ويب يستخدم AMP."
 
 #: /views/partials/format-visuals/websites.j2:10
-msgid "111A screenshot showing amp-sidebar."
-msgstr "111A screenshot showing amp-sidebar."
-
-#: /views/partials/format-visuals/websites.j2:10
-msgid "22A screenshot showing amp-sidebar."
-msgstr "22لقطة شاشة تعرض شريط amp-sidebar."
-
-#: /views/partials/format-visuals/websites.j2:10
+msgctxt "01"
 msgid "A screenshot showing amp-sidebar."
 msgstr "لقطة شاشة تعرض شريط amp-sidebar."
 
@@ -50,5 +62,7 @@ msgstr "مواصفات AMP HTML"
 msgid "AMP Overview"
 msgstr ""
 
-
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
+msgid "AMP for Email Specification"
+msgstr "AMP لمواصفات البريد الإلكتروني"
 
