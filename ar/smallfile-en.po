@@ -7,6 +7,10 @@ msgid "111A screenshot showing amp-sidebar."
 msgstr "111A screenshot showing amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:10
+msgid "22A screenshot showing amp-sidebar."
+msgstr "22لقطة شاشة تعرض شريط amp-sidebar."
+
+#: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
 msgstr "لقطة شاشة تعرض شريط amp-sidebar."
 
