@@ -23,7 +23,7 @@ msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
 msgctxt "01"
-msgid ""
+msgid "A screenshot showing amp-sidebar."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
