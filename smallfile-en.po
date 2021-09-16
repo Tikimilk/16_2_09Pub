@@ -31,7 +31,7 @@ msgid "A website screenshot."
 msgstr "3333"
 
 #: /views/partials/footer.j2:74
-msgid "AMP Brand Materials"
+msgid ""
 msgstr ""
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
