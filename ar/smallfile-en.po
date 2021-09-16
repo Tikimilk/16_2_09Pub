@@ -50,7 +50,5 @@ msgstr "مواصفات AMP HTML"
 msgid "AMP Overview"
 msgstr "نظرة عامة على AMP"
 
-#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
-msgid "AMP for Email Specification"
-msgstr "AMP لمواصفات البريد الإلكتروني"
+
 
