@@ -6,7 +6,7 @@ my:
        - sugar
        - flour
        cream:
-        - sugar
-        - milk
-        - rom
+       - sugar
+       - milk
+       - rom
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
