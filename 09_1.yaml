@@ -5,8 +5,7 @@ my:
       dough:
        - sugar
        - flour
-       - egge1
-      cream:
+         cream:
         - sugar
         - milk
         - rom
