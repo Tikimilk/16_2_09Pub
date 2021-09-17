@@ -5,7 +5,7 @@ my:
       dough:
        - sugar
        - flour
-         cream:
+       cream:
         - sugar
         - milk
         - rom
