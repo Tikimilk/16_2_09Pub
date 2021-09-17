@@ -3,10 +3,10 @@ my:
     cake:
       composition: [dough, cream]
       dough:
+       - eggs
        - sugar
        - flour
-       cream:
-       - sugar
-       - milk
-       - rom
+      cream:
+        - sugar
+        - milk
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
