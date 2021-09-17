@@ -1,10 +1,12 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgctxt "Test text"
 msgid "A screenshot of a website using AMP."
-msgstr ""
+msgstr "The city looks so pretty"
 
 #: /views/partials/format-visuals/websites.j2:10
-msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgctxt "01"
+msgid ""
+msgstr "A screenshot showing amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
